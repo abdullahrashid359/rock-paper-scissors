@@ -1,1 +1,2 @@
 # rock-paper-scissors
+This is my first JavaScript project done as part of my JavaScript Basics lesson from The Odin Project Foundations course. In this project, i have simulated Rock-Paper-Scissors game between a user and a computer. This project have no GUI for now and it's a console based game.
